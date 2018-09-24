@@ -1,0 +1,32 @@
+_repo: Janus-in-Modern-Life_56095
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Petrie, W. M. Flinders (William Matthew Flinders)
+    aliases:
+    - Petrie, William Matthew Flinders, Sir
+    - Petrie, Flinders
+    birthdate: 1853
+    deathdate: 1942
+    gutenberg_agent_id: '2454'
+    url: http://www.gutenberg.org/2009/agents/2454
+    wikipedia: http://en.wikipedia.org/wiki/William_Matthew_Flinders_Petrie
+description: ''
+gutenberg_issued: '2017-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Progress'
+- !lcc 'HM'
+- !lcsh 'Civilization'
+- GITenberg
+tableOfContents: Character, the basis of society -- Present changes of character --
+  Trade unionism, its flower and fruition -- Revolution or evolution? -- The need
+  of diversity -- Lines of advance.
+title: Janus in Modern Life
+url: http://www.gutenberg.org/ebooks/56095
